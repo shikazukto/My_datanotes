@@ -16,3 +16,10 @@
 * [GitHub Pages](https://github.com/)
 * [Basic writing and formatting syntax](https://www.markdownguide.org/cheat-sheet/)
 * [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
+* [Fall 2024 COMP1238](https://learn.georgebrown.ca/d2l/home/291663)
+
+# Experiment
+
+## Emojis Face
+* :smile: | smile
+* :kissing_heart: | kissing_heart
