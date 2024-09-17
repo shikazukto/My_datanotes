@@ -20,6 +20,5 @@
 
 # Experiment
 
-## Emojis Face
 * :smile: | smile
 * :kissing_heart: | kissing_heart
