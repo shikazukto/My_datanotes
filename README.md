@@ -29,6 +29,7 @@
 - ctrl v (paste)
 - ctrl x (cut)
 - ctrl z (undo)
+  
 ## Shortcuts I would like to start using:
 - ctrl n (open new)
 - windows v (clipboard)
