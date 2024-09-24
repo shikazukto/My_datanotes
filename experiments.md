@@ -1,7 +1,7 @@
 ## Search Experiments
 Try searching for the word "line"
 
-```
+
 Line
 line
 lines
@@ -13,4 +13,3 @@ end of line
 end-of-line
 outline
 linear
-```
