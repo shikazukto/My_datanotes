@@ -4,6 +4,7 @@
 This document describes the basic command line interface (CLI) commands used in previous labs.
 
 ### `ls`
+
 The `ls` command is used to list the files and directories in the current directory.
 
 ### `cat`
